@@ -160,6 +160,7 @@ public class GatewaySampleApplication {
 		}
 	}
 
+	//demo启动项
 	public static void main(String[] args) {
 		SpringApplication.run(GatewaySampleApplication.class, args);
 	}
